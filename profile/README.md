@@ -1,4 +1,3 @@
-# Covia.ai: Orchestrate the Impossible
 ## The Universal Federated Grid for AI
 
 **Covia.ai** is the open-source infrastructure for **federated AI orchestration**. We enable AI models, agents, and data to collaborate across organisational boundaries, clouds, and jurisdictions—all with built-in governance and without centralising control.
